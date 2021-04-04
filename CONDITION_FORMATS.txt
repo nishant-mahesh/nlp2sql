@@ -1,0 +1,27 @@
+1 ##LC is ##RC
+1 ##LC are ##RC
+2 ##LC is greater than ##RC
+2 ##LC greater than ##RC
+2 ##LC are greater than ##RC
+2 ##LC is bigger than ##RC
+2 ##LC are bigger than ##RC
+3 ##LC is lesser than ##RC
+3 ##LC is less than ##RC
+3 ##LC less than ##RC
+3 ##LC lesser than ##RC
+4 ##LC is greater than or equal to ##RC
+4 ##LC is great or equal to ##RC
+4 ##LC are greater than or equal to ##RC
+4 ##LC are great or equal to ##RC
+5 ##LC is less than or equal to ##RC
+5 ##LC is lesser or equal to ##RC
+5 ##LC are less than or equal to ##RC
+5 ##LC are lesser or equal to ##RC
+6 ##LC is not ##RC
+6 ##LC isnt ##RC
+6 ##LC are not ##RC
+6 ##LC arent ##RC
+6 ##LC is not equal to ##RC
+6 ##LC are not equal to ##RC
+
+

@@ -1,0 +1,85 @@
+1 show me the details of ##TN whose ##CON
+1 tell me the details of ##TN whose ##CON
+1 give me the details of ##TN whose ##CON
+1 display the details of ##TN whose ##CON
+1 please show me the details of ##TN whose ##CON
+1 please tell me the details of ##TN whose ##CON
+1 please give me the details of ##TN whose ##CON
+1 please display the details of ##TN whose ##CON
+2 show me the ##AGG ##COL of all ##TN
+2 show me the ##AGG ##COL of ##TN
+2 show me the ##AGG ##COL of ##TN whose ##CON
+2 show me the ##AGG ##COL of ##TN whose ##CON
+2 show me the ##AGG ##COL of ##TN whose ##CON
+2 show me the ##AGG of ##TN whose ##CON
+2 show me the ##AGG of ##TN with ##CON
+2 tell me the ##AGG ##COL of all ##TN
+2 tell me the ##AGG ##COL of ##TN
+2 tell me the ##AGG ##COL of ##TN whose ##CON
+2 tell me the ##AGG ##COL of ##TN whose ##CON
+2 tell me the ##AGG ##COL of ##TN whose ##CON
+2 tell me the ##AGG of ##TN whose ##CON
+2 give me the ##AGG ##COL of ##TN whose ##CON
+2 give me the ##AGG ##COL of ##TN whose ##CON
+2 give me the ##AGG ##COL of ##TN whose ##CON
+2 give me the ##AGG of ##TN whose ##CON
+2 please show me the ##AGG ##COL of all ##TN
+2 please show me the ##AGG ##COL of ##TN
+2 please show me the ##AGG ##COL of ##TN whose ##CON
+2 please show me the ##AGG ##COL of ##TN whose ##CON
+2 please show me the ##AGG ##COL of ##TN whose ##CON
+2 please show me the ##AGG of ##TN whose ##CON
+2 please show me the ##AGG of ##TN with ##CON
+2 please tell me the ##AGG ##COL of all ##TN
+2 please tell me the ##AGG ##COL of ##TN
+2 please tell me the ##AGG ##COL of ##TN whose ##CON
+2 please tell me the ##AGG ##COL of ##TN whose ##CON
+2 please tell me the ##AGG ##COL of ##TN whose ##CON
+2 please tell me the ##AGG of ##TN whose ##CON
+2 please give me the ##AGG ##COL of ##TN whose ##CON
+2 please give me the ##AGG ##COL of ##TN whose ##CON
+2 please give me the ##AGG ##COL of ##TN whose ##CON
+2 please give me the ##AGG of ##TN whose ##CON
+1 select the details of ##TN whose ##CON
+1 show me the ##CLST of ##TN whose ##CON
+1 tell me the ##CLST of ##TN whose ##CON
+1 give me the ##CLST of ##TN whose ##CON
+1 display the ##CLST of ##TN whose ##CON
+1 select the ##CLST of ##TN whose ##CON
+1 show me the ##CLST of the ##TN whose ##CON
+1 tell me the ##CLST of the ##TN whose ##CON
+1 give me the ##CLST of the ##TN whose ##CON
+1 display the ##CLST of the ##TN whose ##CON
+1 select the ##CLST of the ##TN whose ##CON
+1 show me the ##CLST of a ##TN whose ##CON
+1 tell me the ##CLST of a ##TN whose ##CON
+1 give me the ##CLST of a ##TN whose ##CON
+1 display the ##CLST of the ##TN whose ##CON
+1 select the ##CLST of the ##TN whose ##CON
+1 show me the ##CLST of an ##TN whose ##CON
+1 tell me the ##CLST of an ##TN whose ##CON
+1 give me the ##CLST of an ##TN whose ##CON
+1 display the ##CLST of the ##TN whose ##CON
+1 select the ##CLST of the ##TN whose ##CON
+1 please select the details of ##TN whose ##CON
+1 please show me the ##CLST of ##TN whose ##CON
+1 please tell me the ##CLST of ##TN whose ##CON
+1 please give me the ##CLST of ##TN whose ##CON
+1 please display the ##CLST of ##TN whose ##CON
+1 please select the ##CLST of ##TN whose ##CON
+1 please show me the ##CLST of the ##TN whose ##CON
+1 please tell me the ##CLST of the ##TN whose ##CON
+1 please give me the ##CLST of the ##TN whose ##CON
+1 please display the ##CLST of the ##TN whose ##CON
+1 please select the ##CLST of the ##TN whose ##CON
+1 please show me the ##CLST of a ##TN whose ##CON
+1 please tell me the ##CLST of a ##TN whose ##CON
+1 please give me the ##CLST of a ##TN whose ##CON
+1 please display the ##CLST of the ##TN whose ##CON
+1 please select the ##CLST of the ##TN whose ##CON
+1 please show me the ##CLST of an ##TN whose ##CON
+1 please tell me the ##CLST of an ##TN whose ##CON
+1 please give me the ##CLST of an ##TN whose ##CON
+1 please display the ##CLST of the ##TN whose ##CON
+1 please select the ##CLST of the ##TN whose ##CON
+

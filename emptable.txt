@@ -1,0 +1,3 @@
+emp
+4
+ename empid salary age
