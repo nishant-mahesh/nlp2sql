@@ -5,7 +5,8 @@ This project was done as a part of my final high school project. Although the fi
 
 Please refer to the final project report to better understand the source code and how to use the project. (Skip to page 25 of the report to see examples of execution).
 
-Awards/ Recognition: This project won the second best high school project in Computer Science. It was also the first attempt at tackling this project statement within my school.
+Awards/ Recognition: 
+- This project won the second best high school project in Computer Science. It was also the first attempt at tackling this project statement within my school.
 
 Learnings from this project:
 - Working completely within the constraints of only what was taught in school was a great challenge. This meant that I disallowed myself from using existing libraries for even simple data structures like queues and vectors, and coded them from scratch. It was a good exercise to test my skills in object oriented programming.
