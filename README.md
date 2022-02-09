@@ -3,8 +3,8 @@ A basic natural language processor to parse queries on relational databases inpu
 
 **To Run:**
 - Clone the git repository in a separate folder and run the commands:
-  1. "g++ FinalProject.cpp" 
-  2. "./a.out".
+  1. ```g++ FinalProject.cpp```
+  2. ```./a.out```
   (This will boot up the command line application)
 
 This project was done as a part of my final high school project. Although the final ideas used to implement the final project wasn't the smartest/ most efficient way to go about things, the ideas I used and the code I wrote are completely my own.
